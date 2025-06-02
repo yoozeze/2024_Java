@@ -5,7 +5,7 @@ public class HelloJava {
 //        System.out.println("Hello World");
 
         // 변수
-        int num = 2;
+        int num = 1;
 
         // 상수
         final int num2 = 2;
